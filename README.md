@@ -23,3 +23,11 @@ Tutrugbu is spoken in Afadzato South District, Volta Region. Related to Tafi and
 
 Wɔgã o! Batrugbuitsalɛ! 🇬🇭
 © Kebisi Int'l Multimedia - Lucas Jebbey Kebisi Family
+## 💸 Support Tutrugbũ Project
+
+🌍 International: https://taptapsend.com
+📱 MTN MoMo: 0530459905
+👤 LUCAS JEBBEY / KEBISI INTNL MULTIMEDIA
+❤️ Tap Sponsor button for top!
+
+Wɔbhɛtibui o!
