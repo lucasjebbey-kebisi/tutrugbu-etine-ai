@@ -1,18 +1,18 @@
 # BATUGBU ETINE - Tutrugbu (Nyagbo) AI Translator
 
-> Tùtrùgbù (Nyagbo, ISO 639-3: nyb) - Ghana-Togo Mountain Kwa language of the Batrugbu people. First AI translator for Tutrugbu-English by Kebisi Int'l Multimedia.
+> Tùtrùgbù (Nyagbo, ISO 639-3: nyb) - Ghana-Togo Mountain Kwa language of the Batugbu people. First AI translator for Tutrugbu-English by Kebisi Int'l Multimedia.
 
 **Live App:** https://lucasjebbey-kebisi.github.io/etine/
 **Main Repo:** https://github.com/lucasjebbey-kebisi/etine
 
-**Language:** Tutrugbu / Nyagbo / Nyangbo
-**People:** Batrugbu (Atrugbu)
-**Location:** Volta Region Ghana - Sroe (Banya), Fiafe, Konda, Kume, Agodome, Odumasi, Emli, Anyigbe, Gagbefe
+**Language:** Tutrugbu / Nyagbo / Nyagbo
+**People:** Batugbu (Atugbu)
+**Location:** Volta Region Ghana - Sroe (Banya), Fiafe, Konda, Kume, Agodome, Odumase, Anyigbe, Gagbefe
 **Family:** Ghana-Togo Mountain (GTM), Kwa, Niger-Congo
 **Features:** Tonal, 9-vowel ATR harmony
 
 ### About Tutrugbu
-Tutrugbu is spoken in Afadzato South District, Volta Region. Related to Tafi and Avatime, surrounded by Ewe. Batrugbu are Guan agroforestry people on Ghana-Togo border mountains.
+Tutrugbu is spoken in Afadzato South District, Volta Region. Related to Tafi and Avatime, surrounded by Ewe. Batugbu are Guan agroforestry people on Ghana-Togo border mountains.
 
 ### Batugbu Etine AI
 - English ↔ Tutrugbu translation
